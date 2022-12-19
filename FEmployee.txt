@@ -11,7 +11,7 @@
 13007	Sıla	y	35	bilişim	6943	1003	10
 13008	Dilan	z	45	üretim	5963	1003	11
 13009	Emre	x	35	üretim	7591	-	12
-12130	Dilara	Patır	28	bilişim	12000	1004	574
+12130	Dilara	Patır	28	bilişim	12000	1004	messiCampeon
 12964	ceyda	patır	23	bilişim	5000.0	-	18
 13828	zeynep	doğan	34	Bilişim	3000.0	-	904
 13365	Ahmet	Uyan	54	Tasarım	4500.0	-	907
